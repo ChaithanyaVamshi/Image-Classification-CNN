@@ -183,7 +183,7 @@ Hence, we can summarize that both the neural network models are more generalized
 
 ## Conclusion 
 
-In this blog, we discussed how to approach the image classification problem by implementing the Convolutional Neural networks (CNN) model using Keras, TensorFlow with 92% accuracy.
+In this project, we discussed how to approach the image classification problem by implementing the Convolutional Neural networks (CNN) model using Keras, TensorFlow with 92% accuracy.
 
 We can explore this work further by trying to improve the accuracy by using advanced Deep Learning algorithms and hyperparameter tuning techniques.
 
